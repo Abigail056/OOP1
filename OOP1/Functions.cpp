@@ -1,7 +1,10 @@
+/*Name:Abigail Muthoni
+Reg No.:BBIT-05-0019/2024
+Campus:Thika Road Campus
+Git Username:Abigail056*/
 #include <iostream> 
 #include <cmath>  
 using namespace std;
-
 // Function prototypes
 float addition(int x, int y);
 double simple_interest(int principle, float rate, int time);
